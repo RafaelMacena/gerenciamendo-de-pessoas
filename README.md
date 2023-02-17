@@ -1,2 +1,2 @@
-# gerenciamendo-de-pessoas
+# gereciamento-de-pessoas
 CRUD
